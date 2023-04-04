@@ -1,0 +1,104 @@
+body{
+    background-color: darkkhaki;
+}
+caption {
+    font-family: 'Rock Salt', cursive;
+    color:navy;
+    font-size: 30px;
+  }
+  table{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+	height: 150px;
+  }
+th{
+    font-family: 'Rock Salt', cursive;
+    background-color:salmon;
+    
+  }
+.Año1{
+    background-color:deeppink;
+}
+.Año2{
+    background-color:rosybrown;
+}
+.Año3{
+        background-color:yellowgreen;
+}
+.Año4{
+    background-color:violet;
+}
+.Año5{
+    background-color:tomato;
+}
+.Año6{
+    background-color:pink;
+}
+.Año7{
+    background-color:plum;
+}
+.Año8{
+    background-color:orange;
+}
+.Año9{
+    background-color:olivedrab;
+}
+.Año10{
+    background-color:skyblue;
+}
+.Uno{
+    background-color: paleturquoise;
+    
+}
+.Uno:hover{
+    background-color:teal;
+}
+.Dos{
+    background-color:darkgoldenrod;
+}
+.Dos:hover{
+    background-color:blueviolet;
+}
+.Tres{
+    background-color:yellowgreen;
+}
+.Tres:hover{
+    background-color:violet;
+}
+.Cuatro{
+    background-color:peru;
+}
+.Cuatro:hover{
+    background-color:teal;
+}
+.Cinco{
+    background-color:orangered;
+}
+.Cinco:hover{
+    background-color:yellow;
+}
+.Seis{
+    background-color:blue;
+}
+.Seis:hover{
+    background-color:seagreen;
+}
+.Siete{
+    background-color:brown;
+}
+.Siete:hover{
+    background-color:red;
+}
+.Ocho{
+    background-color:chocolate;
+}
+.Ocho{
+    background-color:aqua;
+}
+.Nueve{
+    background-color:crimson;
+}
+.Nueve:hover{
+    background-color:magenta;
+}
